@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/zeke/.dotnet/store/|arch|/|tfm|",
+      "/Users/zeke/.nuget/packages"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+/Users/zeke/Desktop/Nam/ESGI/Design Pattern/TransactionelExos/TransactionelExos/obj/Debug/netcoreapp2.0/TransactionelExos.csprojResolveAssemblyReference.cache
+/Users/zeke/Desktop/Nam/ESGI/Design Pattern/TransactionelExos/TransactionelExos/obj/Debug/netcoreapp2.0/TransactionelExos.csproj.CoreCompileInputs.cache
+/Users/zeke/Desktop/Nam/ESGI/Design Pattern/TransactionelExos/TransactionelExos/obj/Debug/netcoreapp2.0/TransactionelExos.AssemblyInfoInputs.cache
+/Users/zeke/Desktop/Nam/ESGI/Design Pattern/TransactionelExos/TransactionelExos/obj/Debug/netcoreapp2.0/TransactionelExos.AssemblyInfo.cs
+/Users/zeke/Desktop/Nam/ESGI/Design Pattern/TransactionelExos/TransactionelExos/bin/Debug/netcoreapp2.0/TransactionelExos.deps.json
+/Users/zeke/Desktop/Nam/ESGI/Design Pattern/TransactionelExos/TransactionelExos/bin/Debug/netcoreapp2.0/TransactionelExos.runtimeconfig.json
+/Users/zeke/Desktop/Nam/ESGI/Design Pattern/TransactionelExos/TransactionelExos/bin/Debug/netcoreapp2.0/TransactionelExos.runtimeconfig.dev.json
+/Users/zeke/Desktop/Nam/ESGI/Design Pattern/TransactionelExos/TransactionelExos/bin/Debug/netcoreapp2.0/TransactionelExos.dll
+/Users/zeke/Desktop/Nam/ESGI/Design Pattern/TransactionelExos/TransactionelExos/bin/Debug/netcoreapp2.0/TransactionelExos.pdb
+/Users/zeke/Desktop/Nam/ESGI/Design Pattern/TransactionelExos/TransactionelExos/obj/Debug/netcoreapp2.0/TransactionelExos.dll
+/Users/zeke/Desktop/Nam/ESGI/Design Pattern/TransactionelExos/TransactionelExos/obj/Debug/netcoreapp2.0/TransactionelExos.pdb

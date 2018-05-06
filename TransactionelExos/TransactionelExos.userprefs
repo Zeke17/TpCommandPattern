@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{45B04B0A-9215-4BC3-9482-F80BC5B20C23}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TransactionelExos/Documents/BaseDeDonnée.txt">
+    <Files>
+      <File FileName="TransactionelExos/Program.cs" Line="26" Column="1" />
+      <File FileName="TransactionelExos/Models/Student.cs" Line="15" Column="11" />
+      <File FileName="TransactionelExos/Data/Bdd.cs" Line="29" Column="21" />
+      <File FileName="TransactionelExos/Models/AppSetting.cs" Line="12" Column="1" />
+      <File FileName="TransactionelExos/Models/Command.cs" Line="13" Column="9" />
+      <File FileName="TransactionelExos/Models/Receiver.cs" Line="10" Column="38" />
+      <File FileName="TransactionelExos/Models/ConcreteCommand.cs" Line="62" Column="5" />
+      <File FileName="TransactionelExos/Models/:Users:zeke:Desktop:Nam:ESGI:Design Pattern:TransactionelExos:TransactionelExos:Models:Transaction.cs" Line="11" Column="9" />
+      <File FileName="TransactionelExos/Documents/BaseDeDonnée.txt" Line="1" Column="122" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/zeke/Desktop/Nam/ESGI/Design Pattern/TransactionelExos/TransactionelExos/Program.cs" relfile="TransactionelExos/Program.cs" line="22" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="TransactionelExos/Models/ConcreteCommand.cs" line="30" offsetX="292" offsetY="435" expression="ex" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.TransactionelExos PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
